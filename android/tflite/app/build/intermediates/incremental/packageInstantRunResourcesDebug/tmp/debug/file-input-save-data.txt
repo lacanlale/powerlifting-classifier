@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jan 16 14:09:48 PST 2019
+1.base=/home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.path=graph.lite
+0.baseType=DIRECTORY
+2.base=/home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=labels.txt
+0.set=ASSET
+0.base=/home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.baseType=DIRECTORY
+1.path=BUILD

@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+MERGED from [com.android.support:design:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/141d73699a5264a5998955492ded56be/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e6363d920aa3b9099bb16fc13ed61824/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6783f25dbac586fa024773f9cb009e8a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/dca160e299373865620985a84e90b66c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5d4fc17f042fb9b2d3bbe09618fd7fa3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8a81a2c2913c2967e5c323b2a974e1de/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/0277cc7303cf69b550bf9dcccc730f02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/0e8f1e6e6d86f037ca3f2a3e3adf1708/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/baa17061ec65019857ecf4d0a0210382/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1520aee9556ac60a12bda3b5db2e5ebd/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/bbddba3f297c89b4fad9021fef147acb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/aa89573ab7096a1b4104b6a4819eb745/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/161142ea9f35b9232089a39892564123/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ee7682fc48b7bfc96ee64a44df6534b7/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/2220fc57787ed0f53cbab61d5b6b16b7/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support:design:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/141d73699a5264a5998955492ded56be/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/141d73699a5264a5998955492ded56be/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e6363d920aa3b9099bb16fc13ed61824/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e6363d920aa3b9099bb16fc13ed61824/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6783f25dbac586fa024773f9cb009e8a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6783f25dbac586fa024773f9cb009e8a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/dca160e299373865620985a84e90b66c/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/dca160e299373865620985a84e90b66c/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5d4fc17f042fb9b2d3bbe09618fd7fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5d4fc17f042fb9b2d3bbe09618fd7fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8a81a2c2913c2967e5c323b2a974e1de/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8a81a2c2913c2967e5c323b2a974e1de/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/0277cc7303cf69b550bf9dcccc730f02/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/0277cc7303cf69b550bf9dcccc730f02/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/0e8f1e6e6d86f037ca3f2a3e3adf1708/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/0e8f1e6e6d86f037ca3f2a3e3adf1708/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/baa17061ec65019857ecf4d0a0210382/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/baa17061ec65019857ecf4d0a0210382/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1520aee9556ac60a12bda3b5db2e5ebd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1520aee9556ac60a12bda3b5db2e5ebd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/bbddba3f297c89b4fad9021fef147acb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/bbddba3f297c89b4fad9021fef147acb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/aa89573ab7096a1b4104b6a4819eb745/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/aa89573ab7096a1b4104b6a4819eb745/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/161142ea9f35b9232089a39892564123/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/161142ea9f35b9232089a39892564123/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ee7682fc48b7bfc96ee64a44df6534b7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ee7682fc48b7bfc96ee64a44df6534b7/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/2220fc57787ed0f53cbab61d5b6b16b7/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/2220fc57787ed0f53cbab61d5b6b16b7/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/141d73699a5264a5998955492ded56be/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:28:5-40:19
+MERGED from [com.android.support:design:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/141d73699a5264a5998955492ded56be/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/141d73699a5264a5998955492ded56be/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e6363d920aa3b9099bb16fc13ed61824/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e6363d920aa3b9099bb16fc13ed61824/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6783f25dbac586fa024773f9cb009e8a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6783f25dbac586fa024773f9cb009e8a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/dca160e299373865620985a84e90b66c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/dca160e299373865620985a84e90b66c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5d4fc17f042fb9b2d3bbe09618fd7fa3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/5d4fc17f042fb9b2d3bbe09618fd7fa3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8a81a2c2913c2967e5c323b2a974e1de/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/8a81a2c2913c2967e5c323b2a974e1de/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/0e8f1e6e6d86f037ca3f2a3e3adf1708/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/0e8f1e6e6d86f037ca3f2a3e3adf1708/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/baa17061ec65019857ecf4d0a0210382/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/baa17061ec65019857ecf4d0a0210382/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1520aee9556ac60a12bda3b5db2e5ebd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/1520aee9556ac60a12bda3b5db2e5ebd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/bbddba3f297c89b4fad9021fef147acb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/bbddba3f297c89b4fad9021fef147acb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/aa89573ab7096a1b4104b6a4819eb745/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/aa89573ab7096a1b4104b6a4819eb745/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/161142ea9f35b9232089a39892564123/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/161142ea9f35b9232089a39892564123/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ee7682fc48b7bfc96ee64a44df6534b7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ee7682fc48b7bfc96ee64a44df6534b7/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/2220fc57787ed0f53cbab61d5b6b16b7/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /home/jonathan/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/2220fc57787ed0f53cbab61d5b6b16b7/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/src/main/AndroidManifest.xml:37:27-74

@@ -1,0 +1,4 @@
+#Wed Jan 16 14:03:42 PST 2019
+base.0=/home/jonathan/C0DE/powerlifting-classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
