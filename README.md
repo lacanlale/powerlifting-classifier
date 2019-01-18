@@ -10,3 +10,4 @@ The retraining here was to use MobileNet to classify one of the three main lifts
 3. The deadlift
 
 Images were downloaded via Google Chrome.
+The tflite folder can also be used for an Android app version.
